@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankunati
-- 👀 I’m interested in automation and machine learning
-- 🌱 I’m currently learning python and C++
-- 💞️ I’m looking to collaborate on any AI based-projects
+- 👀 I’m interested in mechatronics and energy projects
+- 🌱 I’m currently learning MATLAB and python
+- 💞️ I’m looking to collaborate on any mechatronics and renewable energy-based projects
 
 <!---
 frankunati/frankunati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
